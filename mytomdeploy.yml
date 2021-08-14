@@ -25,4 +25,4 @@ spec:
         image: manojdevops26/manojgitimage:1
         ports:
         - containerPort:  8080
-          protocol: Tc
+          protocol: TCP
